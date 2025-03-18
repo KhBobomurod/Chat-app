@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #007bff;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+  color: #fff;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  margin-top: 10px;
+}
+
+p button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+}
+
+p button:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+/* 🔥 Dark Mode */
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+/* 🔥 Switch va boshqa elementlar */
+.dark-mode button {
+  background-color: #333;
+  color: white;
+}
+
+.dark-mode input {
+  background-color: #222;
+  color: white;
+  border: 1px solid white;
+}
+
+.dark-mode h2 {
+  color: white;
+}
+
+.dark-mode p {
+  color: white;
+}
+
+.dark-mode p button {
+  color: #007bff;
+}
+
+.dark-mode p button:hover {
+  text-decoration: underline;
+}
+
+.dark-mode .error-message {
+  color: red;
+}
+
+.dark-mode .container {
+  background-color: #333;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .container input {
+  background-color: #222;
+  color: white;
+  border: 1px solid white;
+
+}
+
+.dark-mode .container button {
+  background-color: #007bff;
+  color: white;
+}

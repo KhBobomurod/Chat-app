@@ -1,0 +1,8 @@
+{
+  "name": "B-Gram",
+  "short_name": "B-Gram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

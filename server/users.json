@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Ali",
+    "password": "$2b$10$RfbsF9Yhx2vdQko6N.tDDOS8La32ywwn7pBDGJFCsBSXWBldUKTnC"
+  },
+  {
+    "id": "2",
+    "name": "Vali",
+    "password": "$2b$10$2yfTd4quoJRPM40dhM25s.WfX97VeUD06R.grDt2LyAxrJvvoxsFa"
+  },
+  {
+    "id": "3",
+    "name": "Sardor",
+    "password": "$2b$10$1535wp3PUBcwXpjjXIgeNuv4aZ85kNmBeEWPTl2sEMkXF6LGhkQP2"
+  },
+  {
+    "id": "4",
+    "name": "husan",
+    "password": "$2b$10$hj6k3A31iEGF1K1fy6WlIu0ZfovKJG8AQKBmzUPb7aCul2mB6u2fy"
+  },
+  {
+    "id": "5",
+    "name": "Bobomurod",
+    "password": "$2b$10$wBNuntuqKhg6Ays2nCCRp.iW2FzW7TkQSHVfmTawDtAHCAPshMVN2"
+  }
+]
